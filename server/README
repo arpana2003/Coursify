@@ -1,7 +1,6 @@
 npm init
 
-npm i bcryptjs cloudinary cookie-parser cors dotenv express jsonwebtoken 
-mongoose multer nodemailer --save
+npm i bcryptjs cloudinary cookie-parser cors dotenv express jsonwebtoken mongoose multer nodemailer --save
 
 npm i nodemon --save
 
